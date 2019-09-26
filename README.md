@@ -1,6 +1,12 @@
 # ResumeChatBot-Dialogflow
 chatbot using dialogflow platform
 
+ This is chatbot where we can store people resume details
+ in this bot he has to register and then he can share his details and 
+ also he can update his details by log into this bot
+
+
+
 Equipment or Tools required for this project :
  1.Dialogflow.com(web site),
  2.Text editor to wirte python code ,
