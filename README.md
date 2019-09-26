@@ -8,3 +8,6 @@ Equipment or Tools required for this project :
  4.And also have to install ngrok server in system to run server for chatbot,
  5.MYSQL Database,
  6.we are using ubuntu16.04 (or windows 10)
+ 
+ 
+ for more details see quide.txt
