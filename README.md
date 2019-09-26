@@ -10,4 +10,4 @@ Equipment or Tools required for this project :
  6.we are using ubuntu16.04 (or windows 10)
  
  
- for more details see quide.txt
+ for more details see guide.txt
