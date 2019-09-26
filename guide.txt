@@ -1,0 +1,15 @@
+ First visit dialogflow.com and create an account on it.
+ Then go to console and there you have to create an agent.
+ After creating an account click on settings symbol go to exportandimport icon then import resumechatbot.zip using import zip icon.
+
+ Download and install ngrok , flask , mysql and  mysqldb on your terminal(ubuntu)
+
+ Open terminal type command  "ngrok http 5000"
+ 5000 is a port number which we use
+ Take url and paste that url in the fullfillment section by enableing webhook in dialogflow agent.
+ Example of url to be paste in fullfillment is : https://ea49fba8.ngrok.io
+ Add "/webhook" to the url in fullfillment : https://ea49fba8.ngrok.io/webhook
+
+ Open new terminal type command  "FLASK_APP=webhook.py flask run" to run the code.
+
+ And create tables using remaining python codes in mysql database.
